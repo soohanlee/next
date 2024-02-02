@@ -1,0 +1,16 @@
+{
+  "Next.js Functional Component": {
+    "prefix": "nextfc",
+    "body": [
+      "export default function ${1:ComponentName}() {",
+      "  return (",
+      "    <div>",
+      "      ${2:/* Your component code here */}",
+      "    </div>",
+      "  );",
+      "}"
+    ],
+    "description": "Creates a Next.js functional component."
+  }
+}
+
